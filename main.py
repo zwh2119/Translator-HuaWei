@@ -1,4 +1,3 @@
 import translation_tool
+from ui import ui_win
 
-if __name__ == '__main__':
-    pass

@@ -1,0 +1,99 @@
+{
+  "image": [
+    {
+      "path": "image/airplane.jpg",
+      "zh": "飞机",
+      "en": "plane"
+    },
+    {
+      "path": "image/bird.jpg",
+      "zh": "鸟",
+      "en": "bird"
+    },
+    {
+      "path": "image/camel.jpg",
+      "zh": "骆驼",
+      "en": "camel"
+    },
+    {
+      "path": "image/cat.jpg",
+      "zh": "猫",
+      "en": "cat"
+    },
+    {
+      "path": "image/deer.jpg",
+      "zh": "麋鹿",
+      "en": "deer"
+    },
+    {
+      "path": "image/dog.jpg",
+      "zh": "狗",
+      "en": "dog"
+    },
+    {
+      "path": "image/elephant.jpg",
+      "zh": "大象",
+      "en": "elephant"
+    },
+    {
+      "path": "image/flower.jpg",
+      "zh": "花",
+      "en": "flower"
+    },
+    {
+      "path": "image/fox.jpg",
+      "zh": "狐狸",
+      "en": "fox"
+    },
+    {
+      "path": "image/frog.jpg",
+      "zh": "青蛙",
+      "en": "frog"
+    },
+    {
+      "path": "image/giraffe.jpg",
+      "zh": "长颈鹿",
+      "en": "giraffe"
+    },
+    {
+      "path": "image/horse.jpg",
+      "zh": "马",
+      "en": "horse"
+    },
+    {
+      "path": "image/human.jpg",
+      "zh": "人",
+      "en": "human"
+    },
+    {
+      "path": "image/panda.jpg",
+      "zh": "熊猫",
+      "en": "panda"
+    },
+    {
+      "path": "image/pig.jpg",
+      "zh": "猪",
+      "en": "pig"
+    },
+    {
+      "path": "image/pigeon.jpg",
+      "zh": "鸽子",
+      "en": "pigeon"
+    },
+    {
+      "path": "image/ship.jpg",
+      "zh": "船只",
+      "en": "ship"
+    },
+    {
+      "path": "image/tiger.jpg",
+      "zh": "老虎",
+      "en": "tiger"
+    },
+    {
+      "path": "image/truck.jpg",
+      "zh": "卡车",
+      "en": "truck"
+    }
+  ]
+}
